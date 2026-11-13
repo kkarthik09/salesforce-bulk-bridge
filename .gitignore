@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.db*
+*checkpoint*.json
+.env
+.env.*
+node_modules/
+.expo/
+dist/
+.DS_Store
